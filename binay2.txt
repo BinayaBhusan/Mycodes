@@ -1,1 +1,7 @@
 This is my 2nd test in master branch
+
+
+java is a programming language
+maven is a build tool
+github is code repo
+aws provides cloud services
